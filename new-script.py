@@ -42,7 +42,7 @@ print(employees)
 employees ['Legal'] = ["Mr. Frond"] #add new key:value pair
 print(employees)
 
-employees.update({"Sales": ["Andie", "Ollie"]}) #add new  key:value pair
+employees.update({"Sales" : ["Andie", "Ollie"]}) #add new  key:value pair
 print(employees)
 
 drinks['Wite Russian'] = 8
